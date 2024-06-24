@@ -1,5 +1,5 @@
 import './App.css';
-import Shopy from './Shopy';
+import Shopy from './POSPage';
 
 function App() {
   return (
